@@ -1,0 +1,6 @@
+{
+  "name": "KayBiT SnakeDetector",
+  "description": "Android edge-AI snake detection system featuring real-time N-frame spatial confirmation, IR night-vision augmentation, latency telemetry (<3s), Python edge daemon, and full mobile alert client.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
